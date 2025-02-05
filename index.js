@@ -10,6 +10,7 @@ app.use(express.json());
 const client = new Client({
   authStrategy: new LocalAuth(),
   puppeteer: { 
+    executablePath: require("puppeteer").executablePath(),
     headless: true,
     args: ["--no-sandbox", "--disable-setuid-sandbox"]
    }
