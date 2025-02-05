@@ -1,0 +1,17 @@
+2025/02/05-09:37:43.636 ae0 Reusing MANIFEST C:\Users\bruno.sato.FENOXNET\Downloads\WhatsappApi-master\WhatsappApi-master\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/05-09:37:43.645 ae0 Recovering log #223
+2025/02/05-09:37:43.662 ae0 Reusing old log C:\Users\bruno.sato.FENOXNET\Downloads\WhatsappApi-master\WhatsappApi-master\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000223.log 
+2025/02/05-09:37:45.546 5934 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/05-09:37:50.934 5934 Level-0 table #234: started
+2025/02/05-09:37:50.965 5934 Level-0 table #234: 1254373 bytes OK
+2025/02/05-09:37:50.984 5934 Delete type=0 #223
+2025/02/05-09:37:51.002 5980 Compacting 1@1 + 7@2 files
+2025/02/05-09:37:51.086 5980 Generated table #235@1: 40229 keys, 2208313 bytes
+2025/02/05-09:37:51.127 5980 Generated table #236@1: 2156 keys, 2149052 bytes
+2025/02/05-09:37:51.184 5980 Generated table #237@1: 16892 keys, 2219010 bytes
+2025/02/05-09:37:51.250 5980 Generated table #238@1: 19522 keys, 2203459 bytes
+2025/02/05-09:37:51.333 5980 Generated table #239@1: 46965 keys, 2179576 bytes
+2025/02/05-09:37:51.419 5980 Generated table #240@1: 108749 keys, 2260304 bytes
+2025/02/05-09:37:51.535 5980 Generated table #241@1: 101541 keys, 2122384 bytes
+2025/02/05-09:37:51.535 5980 Compacted 1@1 + 7@2 files => 15342098 bytes
+2025/02/05-09:37:51.537 5980 compacted to: files[ 0 0 7 0 0 0 0 ]
